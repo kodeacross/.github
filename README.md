@@ -1,7 +1,7 @@
 # .github
 KodeAcross - We build meaningful apps that change the world
 
-#### **Build Meaningful apps that change the world**
+## **Build Meaningful apps that change the world**
 
 ### **What is meaningful work?**
 
