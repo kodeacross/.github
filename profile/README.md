@@ -1,4 +1,4 @@
-***We are KodeAcross***
+***We are KodeAcross - We build meaningful apps that change the world***
 
 ## Hi there 👋
 
