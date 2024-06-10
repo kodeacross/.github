@@ -18,7 +18,7 @@ Be the premier technology partner for excellence-driven innovators enabling posi
 
 Let us be the engineering backbone of your solutions, ensuring they're built with precision and innovation. By partnering with us, you gain access to a committed team that is as passionate about your success as you are. Together, let's build meaningful apps that change the world.
 
-🧙 Our Website [Markdown](https:/kodeacross.com)
+🧙 Our Website [KodeAcross](https:/kodeacross.com)
 
 
 
